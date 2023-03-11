@@ -48,27 +48,10 @@
 </p>
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+
 <div width="100%" align="center">
   <a align="right" href="https://github.com/Jallouli-Yassine/EsportSymfony" title="First_Contribute"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=Contribute-To-This-Project&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Jallouli-Yassine/appconstruction_company_2A1" title="Myfirst_application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=appconstruction_company_2A1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Jallouli-Yassine/appconstruction_company_2A1" title="MyFirst_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=swords1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-
-    <a align="left" href="https://github.com/Jallouli-Yassine/roll-dice-game-project" title="MyFirst_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=swords1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<div width="100%" align="center">
-
-    <a align="left" href="https://github.com/Jallouli-Yassine/nodeJs-document" title="MyFirst_Game"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=swords1&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-
 
 <br><br><br><br><br><br>
 
