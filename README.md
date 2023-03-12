@@ -8,8 +8,6 @@
    <br>
   💻 I need to to learn new technologies and frameworks.
   <br>
-  🧑‍💼 I’m currently a student
-  <br>
 </p>
 <div align="center"> 
   <a href = "yassine.jallouli@esprit.tn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
