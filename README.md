@@ -4,7 +4,7 @@
   </a>
 </h1>
 <p align="center">
-  👨‍💻  Hi, JALLOULI YASSINE, Web Developer/Coder 🥷,  Learner.
+  👨‍💻  Hi, JALLOULI YASSINE, Web Developer,Computer Engineering Student, Learner 👨‍💻 &  gamer 🦸‍♂️ from Tunisia TN.
    <br>
   💻 I need to to learn new technologies and frameworks.
   <br>
