@@ -28,7 +28,7 @@
 <p align=center>
   <div align=center>
     <a title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehdibayoudh&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jallouli-Yassine&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a  title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Jallouli-Yassine&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
