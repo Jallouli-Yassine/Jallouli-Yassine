@@ -175,11 +175,11 @@ graph LR
     D --> E[Innovative Solutions]
 ```
 
-- 🔹 **Studying:** Artificial Intelligence & Machine Learning 🤖
-- 🔹 **Mastering:** DevOps pipelines with Jenkins & GitHub Actions
-- 🔹 **Building:** Full-stack applications with Angular & Spring Boot
-- 🔹 **Exploring:** Cybersecurity best practices & secure coding
-- 🔹 **Deploying:** Applications on Azure cloud platform
+- 🔹 **Deep Diving:** Advanced AI/ML algorithms and neural networks
+- 🔹 **Automating:** Complex deployment workflows and infrastructure as code
+- 🔹 **Optimizing:** Application performance and scalability patterns
+- 🔹 **Strengthening:** Security implementations and vulnerability testing
+- 🔹 **Contributing:** Open-source projects and tech communities
 
 ---
 
