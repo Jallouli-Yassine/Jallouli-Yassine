@@ -32,17 +32,18 @@ const yassine = {
     title: "Ingénieur Informatique | Full-Stack Developer",
     location: "Tunisia 🇹🇳",
     education: "Computer Engineering Graduate",
-    domains: ["Web Development", "DevOps", "Security", "AI/ML (learning)"],
-    expertise: ["Full-Stack Development", "CI/CD Pipelines", "Cloud Deployment"],
-    currentFocus: "Artificial Intelligence & Machine Learning 🤖",
-    funFact: "Passionate gamer 🎮 & tech enthusiast 💻"
+    domains: ["Web Development", "DevOps", "Security", "AI/ML"],
+    currentlyLearning: "Artificial Intelligence & Machine Learning 🤖",
+    passions: ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩"]
 };
 ```
 
-🔭 **Currently Working On:** Building full-stack applications with modern frameworks  
-🌱 **Learning:** Artificial Intelligence, Machine Learning, Deep Learning  
-💡 **Interested In:** AI/ML, Web Development, DevOps Automation, Cybersecurity  
-⚡ **Fun Fact:** I transform coffee ☕ into code 💻
+<p align="center">
+🔭 <strong>Currently Working On:</strong> Full-stack applications with Angular & Spring Boot<br>
+🌱 <strong>Currently Learning:</strong> AI/ML, Deep Learning, Advanced Cloud Architectures<br>
+💡 <strong>Expertise:</strong> Web Development • DevOps CI/CD • Cloud Deployment • Security<br>
+⚡ <strong>Fun Fact:</strong> I turn coffee ☕ into scalable solutions 🚀
+</p>
 
 </div>
 
