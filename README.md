@@ -31,12 +31,12 @@
 
 ```typescript
 const yassine = {
-  title: "Ingénieur Informatique | Full-Stack Developer",
-  location: "Tunisia 🇹🇳",
-  education: "Computer Engineering Graduate",
-  domains: ["Web Development", "DevOps", "Security", "AI/ML"],
-  currentlyLearning: "Artificial Intelligence & Machine Learning 🤖",
-  passions: ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩"]
+  title             : "Ingénieur Informatique | Full-Stack Developer",
+  location          : "Tunisia 🇹🇳",
+  education         : "Computer Engineering Graduate",
+  domains           : ["Web Development", "DevOps", "Security", "AI/ML"],
+  currentlyLearning : "Artificial Intelligence & Machine Learning 🤖",
+  passions          : ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩"]
 };
 ```
 
