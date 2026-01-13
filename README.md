@@ -125,10 +125,14 @@ Jenkins • CI/CD
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jallouli-Yassine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jallouli-Yassine&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://github.com/Jallouli-Yassine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jallouli-Yassine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Jallouli-Yassine">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jallouli-Yassine&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jallouli-Yassine&theme=tokyonight&hide_border=true" alt="Jallouli-Yassine's streak"/>
