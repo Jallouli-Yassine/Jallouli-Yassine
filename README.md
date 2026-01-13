@@ -27,24 +27,32 @@
 
 ### 💼 About Me
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-```typescript
-const yassine = {
-  title: "Ingénieur Informatique | Full-Stack Developer",
-  location: "Tunisia 🇹🇳",
-  education: "Computer Engineering Graduate",
-  domains: ["Web Development", "DevOps", "Security", "AI/ML"],
-  currentlyLearning: "Artificial Intelligence & Machine Learning 🤖",
-  passions: ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩"]
-};
-```
+**👨‍💻 Ingénieur Informatique**  
+Full-Stack Developer
 
-</div>
+📍 **Location:** Tunisia 🇹🇳  
+🎓 **Education:** Computer Engineering Graduate
+
+</td>
+<td align="center" width="50%">
+
+**💡 Domains**  
+Web Development • DevOps  
+Security • AI/ML
+
+🎯 **Currently Learning**  
+Artificial Intelligence & Machine Learning 🤖
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 🔭 <strong>Currently Working On:</strong> Full-stack applications with Angular & Spring Boot<br>
-🌱 <strong>Currently Learning:</strong> AI/ML, Deep Learning, Advanced Cloud Architectures<br>
 💡 <strong>Expertise:</strong> Web Development • DevOps CI/CD • Cloud Deployment • Security<br>
 ⚡ <strong>Fun Fact:</strong> I turn coffee ☕ into scalable solutions 🚀
 </p>
