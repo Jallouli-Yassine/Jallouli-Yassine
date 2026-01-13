@@ -27,6 +27,8 @@
 
 ### 💼 About Me
 
+<div align="center">
+
 ```typescript
 const yassine = {
     title: "Ingénieur Informatique | Full-Stack Developer",
@@ -37,6 +39,8 @@ const yassine = {
     passions: ["Coding 💻", "Gaming 🎮", "Problem Solving 🧩"]
 };
 ```
+
+</div>
 
 <p align="center">
 🔭 <strong>Currently Working On:</strong> Full-stack applications with Angular & Spring Boot<br>
