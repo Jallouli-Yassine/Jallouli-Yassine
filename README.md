@@ -27,35 +27,63 @@
 
 ### 💼 About Me
 
+<div align="center">
+
+**👨‍💻 Ingénieur Informatique & Full-Stack Developer**
+
+📍 Tunisia 🇹🇳 | 🎓 Computer Engineering Graduate
+
+</div>
+
+---
+
+<div align="center">
+
+#### 🚀 My Tech Journey
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  💻 Web Development    🔧 DevOps & CI/CD    🔒 Security     │
+│                  🤖 AI & Machine Learning                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td width="33%" align="center">
 
-**👨‍💻 Ingénieur Informatique**  
-Full-Stack Developer
-
-📍 **Location:** Tunisia 🇹🇳  
-🎓 **Education:** Computer Engineering Graduate
+### 🎯 Focus
+Building scalable  
+full-stack applications  
+with modern frameworks
 
 </td>
-<td align="center" width="50%">
+<td width="33%" align="center">
 
-**💡 Domains**  
-Web Development • DevOps  
-Security • AI/ML
+### 📚 Learning
+Artificial Intelligence  
+Machine Learning  
+Deep Learning
 
-🎯 **Currently Learning**  
-Artificial Intelligence & Machine Learning 🤖
+</td>
+<td width="33%" align="center">
+
+### 💪 Expertise
+Angular • Spring Boot  
+Docker • Azure  
+Jenkins • CI/CD
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-🔭 <strong>Currently Working On:</strong> Full-stack applications with Angular & Spring Boot<br>
-💡 <strong>Expertise:</strong> Web Development • DevOps CI/CD • Cloud Deployment • Security<br>
-⚡ <strong>Fun Fact:</strong> I turn coffee ☕ into scalable solutions 🚀
-</p>
+<div align="center">
+
+💡 *Turning ideas into innovative solutions, one commit at a time*
+
+</div>
 
 </div>
 
