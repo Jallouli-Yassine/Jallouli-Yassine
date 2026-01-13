@@ -1,52 +1,189 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+👋;+I'm+Yassine+Jallouli!;&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
+
+# 👋 Hi, I'm Jallouli Yassine
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineer+%7C+Full-Stack+Developer;Web+Development+%7C+DevOps+%7C+Security;Angular+%7C+Spring+Boot+%7C+Docker;Learning+AI+%26+Machine+Learning+🤖;Always+Exploring+New+Technologies!;&center=true&width=600&height=50&color=667eea&vCenter=true&size=24">
+</a>
+
+### 🚀 Ingénieur Informatique | Web • DevOps • Sécurité • IA
+
 <p align="center">
-  👨‍💻  Hi, Jallouli Yassine,Computer Engineering Student, Web Developer, Learner 👨‍💻 &  gamer 🦸‍♂️ from Tunisia TN.
-   <br>
-  💻 I need to to learn new technologies and frameworks.
-  <br>
+  <a href="https://www.linkedin.com/in/jallouliyassine/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:jallouliyassine6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://my-portfolio-front-rouge.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Jallouli-Yassine" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
-<div align="center"> 
- <a href="https://discord.gg/KSM2gtkMyS" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:yassine.jallouli@esprit.tn"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jallouliyassine/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+---
+
+### 💼 About Me
+
+```typescript
+const yassine = {
+    title: "Ingénieur Informatique | Full-Stack Developer",
+    location: "Tunisia 🇹🇳",
+    education: "Computer Engineering Graduate",
+    domains: ["Web Development", "DevOps", "Security", "AI/ML (learning)"],
+    expertise: ["Full-Stack Development", "CI/CD Pipelines", "Cloud Deployment"],
+    currentFocus: "Artificial Intelligence & Machine Learning 🤖",
+    funFact: "Passionate gamer 🎮 & tech enthusiast 💻"
+};
+```
+
+🔭 **Currently Working On:** Building full-stack applications with modern frameworks  
+🌱 **Learning:** Artificial Intelligence, Machine Learning, Deep Learning  
+💡 **Interested In:** AI/ML, Web Development, DevOps Automation, Cybersecurity  
+⚡ **Fun Fact:** I transform coffee ☕ into code 💻
+
 </div>
-<hr>
-<h2 align="center">🔥 Languages-Frameworks-tools 🔥</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,stackoverflow,discord,photoshop,illustrator,pr,vscode,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,javascript,php,symfony,nodejs,angular,flutter,java,python,c,c++" />
-  </a>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,js,ts,tailwind,bootstrap,sass" />
 </p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Jallouli-Yassine&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a  title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Jallouli-Yassine&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jallouli-Yassine&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <br>
-  <br></p>
+### ⚙️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,django,laravel,php,symfony" />
+</p>
 
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
-<br><br><br><br><br><br>
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,azure,githubactions,git,linux" />
+</p>
 
-<h4 align="center">
-  <a href="https://github.com/Jallouli-Yassine?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+### 🧰 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma" />
+</p>
+
+### 📚 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,cpp" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jallouli-Yassine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jallouli-Yassine&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=c%23,powershell"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jallouli-Yassine&theme=tokyonight&hide_border=true" alt="Jallouli-Yassine's streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jallouli-Yassine&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+[![ArenaLink](https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=myPortfolioFront&theme=tokyonight&hide_border=true)](https://github.com/Jallouli-Yassine/myPortfolioFront)
+[![Project Management](https://github-readme-stats.vercel.app/api/pin/?username=Jallouli-Yassine&repo=SIUESPORTS.pidev.3A37&theme=tokyonight&hide_border=true)](https://github.com/Jallouli-Yassine/SIUESPORTS.pidev.3A37)
+
+</div>
+
+### 🚀 Notable Work
+
+- **ArenaLink** - Full-stack football match management platform (Spring Boot, Angular, Azure)
+- **Project Management App** - Agile project management tool similar to JIRA (NestJS, React)
+- **DevOps CI/CD Pipeline** - Complete automation with Jenkins, Docker, SonarQube, Grafana
+- **E-Sports Platform** - Comprehensive platform with Symfony, Codename One mobile app
+- **E-Commerce Platform** - Online store with Angular & Spring Boot
+
+<div align="center">
+  <a href="https://github.com/Jallouli-Yassine?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+  </a>
+</div>
+
+---
+
+## 🎯 Current Focus (2026)
+
+```mermaid
+graph LR
+    A[Full-Stack Development] --> B[DevOps & CI/CD]
+    B --> C[Cloud & Security]
+    C --> D[AI & Machine Learning]
+    D --> E[Innovative Solutions]
+```
+
+- 🔹 **Studying:** Artificial Intelligence & Machine Learning 🤖
+- 🔹 **Mastering:** DevOps pipelines with Jenkins & GitHub Actions
+- 🔹 **Building:** Full-stack applications with Angular & Spring Boot
+- 🔹 **Exploring:** Cybersecurity best practices & secure coding
+- 🔹 **Deploying:** Applications on Azure cloud platform
+
+---
+
+## 💡 What I Bring
+
+<div align="center">
+
+| 🎯 Expertise | 📈 Level | 🔥 Projects |
+|-------------|----------|-------------|
+| Full-Stack Web Development | ████████░ 85% | 11+ |
+| DevOps & CI/CD | ███████░░ 75% | 5+ |
+| Cloud & Deployment | ██████░░░ 70% | 4+ |
+| Security & Best Practices | ██████░░░ 65% | 6+ |
+| AI/ML (Learning) | ███░░░░░░ 30% | 1+ |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Open to freelance opportunities, collaborations, and exciting projects!**
+
+<a href="mailto:jallouliyassine6@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/jallouliyassine/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://my-portfolio-front-rouge.vercel.app">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-667eea?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+### 📊 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Jallouli-Yassine&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=fff&animation=twinkling" />
+</p>
+
+**⭐ From [Jallouli-Yassine](https://github.com/Jallouli-Yassine) with 💙**
+
+</div>
