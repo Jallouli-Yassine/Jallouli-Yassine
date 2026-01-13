@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/jallouliyassine/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jallouliyassine6@gmail.com">
+  <a href="mailto:yassine.jallouli@esprit.tn">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://my-portfolio-front-rouge.vercel.app" target="_blank">
@@ -177,7 +177,7 @@ graph LR
 
 **Open to freelance opportunities, collaborations, and exciting projects!**
 
-<a href="mailto:jallouliyassine6@gmail.com">
+<a href="mailto:yassine.jallouli@esprit.tn">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/jallouliyassine/">
