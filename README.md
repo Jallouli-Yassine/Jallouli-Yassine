@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=220&section=header&text=Yassine%20Jallouli&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="Yassine Jallouli — AI and Data Software Engineer"/>
 
